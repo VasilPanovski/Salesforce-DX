@@ -14,6 +14,10 @@
                 <behavior>Required</behavior>
                 <field>School__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Required</behavior>
+                <field>Discipline_ID__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns/>
         <style>TwoColumnsTopToBottom</style>
@@ -49,6 +53,14 @@
     <relatedLists>
         <fields>NAME</fields>
         <relatedList>Student__c.Teacher__c</relatedList>
+    </relatedLists>
+    <relatedLists>
+        <fields>NAME</fields>
+        <relatedList>Teacher_Student__c.Teacher__c</relatedList>
+    </relatedLists>
+    <relatedLists>
+        <fields>NAME</fields>
+        <relatedList>Category__c.Teacher_ID__c</relatedList>
     </relatedLists>
     <showEmailCheckbox>false</showEmailCheckbox>
     <showHighlightsPanel>false</showHighlightsPanel>

@@ -10,13 +10,12 @@
                 <behavior>Required</behavior>
                 <field>Name</field>
             </layoutItems>
-        </layoutColumns>
-        <layoutColumns>
             <layoutItems>
-                <behavior>Edit</behavior>
-                <field>OwnerId</field>
+                <behavior>Required</behavior>
+                <field>School__c</field>
             </layoutItems>
         </layoutColumns>
+        <layoutColumns/>
         <style>TwoColumnsTopToBottom</style>
     </layoutSections>
     <layoutSections>
@@ -72,6 +71,10 @@
     <relatedLists>
         <fields>NAME</fields>
         <relatedList>Discipline_Student__c.Discipline__c</relatedList>
+    </relatedLists>
+    <relatedLists>
+        <fields>NAME</fields>
+        <relatedList>Teacher__c.Discipline__c</relatedList>
     </relatedLists>
     <showEmailCheckbox>false</showEmailCheckbox>
     <showHighlightsPanel>false</showHighlightsPanel>
