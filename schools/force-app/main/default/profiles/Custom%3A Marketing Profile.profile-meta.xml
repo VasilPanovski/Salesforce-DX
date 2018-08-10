@@ -1,11 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Profile xmlns="http://soap.sforce.com/2006/04/metadata">
+    <classAccesses>
+        <apexClass>TestObjectsCreator</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
     <custom>true</custom>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Category__c.School_ID__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Category__c.Teacher_ID__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Student__c.Category_ID__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
         <field>Student__c.Teacher__c</field>
         <readable>true</readable>
     </fieldPermissions>
+    <layoutAssignments>
+        <layout>Category__c-Category Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Discipline_Student__c-Discipline Student Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Discipline__c-Discipline Layout</layout>
+    </layoutAssignments>
     <layoutAssignments>
         <layout>School__c-School Layout</layout>
     </layoutAssignments>
@@ -18,6 +46,10 @@
     <layoutAssignments>
         <layout>Teacher__c-Teacher Layout</layout>
     </layoutAssignments>
+    <tabVisibilities>
+        <tab>Discipline__c</tab>
+        <visibility>DefaultOn</visibility>
+    </tabVisibilities>
     <userLicense>Salesforce</userLicense>
     <userPermissions>
         <enabled>true</enabled>

@@ -38,11 +38,7 @@
     </actionOverrides>
     <actionOverrides>
         <actionName>View</actionName>
-        <comment>Action override created by Lightning App Builder during activation.</comment>
-        <content>Schools</content>
-        <formFactor>Large</formFactor>
-        <skipRecordTypeSelect>false</skipRecordTypeSelect>
-        <type>Flexipage</type>
+        <type>Default</type>
     </actionOverrides>
     <allowInChatterGroups>false</allowInChatterGroups>
     <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
@@ -56,13 +52,14 @@
     <enableSearch>true</enableSearch>
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
-    <label>School</label>
+    <label>Discipline Student</label>
     <nameField>
-        <label>School Name</label>
-        <type>Text</type>
+        <displayFormat>{00000}</displayFormat>
+        <label>Discipline Student Name</label>
+        <type>AutoNumber</type>
     </nameField>
-    <pluralLabel>Schools</pluralLabel>
+    <pluralLabel>Disciplines Students</pluralLabel>
     <searchLayouts/>
-    <sharingModel>ReadWrite</sharingModel>
+    <sharingModel>ControlledByParent</sharingModel>
     <visibility>Public</visibility>
 </CustomObject>
