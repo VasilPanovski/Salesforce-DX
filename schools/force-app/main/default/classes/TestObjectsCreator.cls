@@ -1,7 +1,15 @@
 public with sharing class TestObjectsCreator {
     public TestObjectsCreator() {
-        School__c school = createSchool('TestSchool', 'Some Test Address', 'High school');
+        School__c school = createSchool('Sofia University', 'Sofia, Centrum', 'High school');
+
+        Discipline__c math = createDiscipline('Math', school.ID);
+        Discipline__c history = createDiscipline('History', school.ID);
+        Discipline__c geography = createDiscipline('Geography', school.ID);
+        Discipline__c[] disciplines = new Discipline__c[] { math, history, geography };
+        insert disciplines;
+
         System.debug(school);
+        System.debug(disciplines);
     }
 
     public School__c createSchool(String name, String address, String type) {
@@ -20,7 +28,6 @@ public with sharing class TestObjectsCreator {
 
     public Discipline__c createDiscipline(String name, ID schoolId) {
         Discipline__c discipline = new Discipline__c(Name = name, School__c = schoolId);
-        insert discipline;
 
         return discipline;
     }

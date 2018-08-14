@@ -12,7 +12,21 @@
             </componentInstanceProperties>
             <componentName>force:highlightsPanel</componentName>
         </componentInstances>
-        <name>Facet-2476cec0-3fd2-4fc5-917b-60f29bf20aee</name>
+        <componentInstances>
+            <componentName>force:detailPanel</componentName>
+        </componentInstances>
+        <name>main</name>
+        <type>Region</type>
+    </flexiPageRegions>
+    <flexiPageRegions>
+        <componentInstances>
+            <componentInstanceProperties>
+                <name>relatedListComponentOverride</name>
+                <value>NONE</value>
+            </componentInstanceProperties>
+            <componentName>force:relatedListContainer</componentName>
+        </componentInstances>
+        <name>Facet-f7f1be20-ca54-4868-aeef-610c30961ecd</name>
         <type>Facet</type>
     </flexiPageRegions>
     <flexiPageRegions>
@@ -27,14 +41,14 @@
             </componentInstanceProperties>
             <componentName>runtime_sales_pathassistant:pathAssistant</componentName>
         </componentInstances>
-        <name>Facet-25ace7aa-e444-4c1d-ab23-3c46776d4fb1</name>
+        <name>Facet-013ff0a0-a5e5-4659-bdfe-1a7e43577c34</name>
         <type>Facet</type>
     </flexiPageRegions>
     <flexiPageRegions>
         <componentInstances>
             <componentInstanceProperties>
                 <name>body</name>
-                <value>Facet-2476cec0-3fd2-4fc5-917b-60f29bf20aee</value>
+                <value>Facet-f7f1be20-ca54-4868-aeef-610c30961ecd</value>
             </componentInstanceProperties>
             <componentInstanceProperties>
                 <name>label</name>
@@ -49,7 +63,7 @@
         <componentInstances>
             <componentInstanceProperties>
                 <name>body</name>
-                <value>Facet-25ace7aa-e444-4c1d-ab23-3c46776d4fb1</value>
+                <value>Facet-013ff0a0-a5e5-4659-bdfe-1a7e43577c34</value>
             </componentInstanceProperties>
             <componentInstanceProperties>
                 <name>label</name>
@@ -61,14 +75,14 @@
             </componentInstanceProperties>
             <componentName>flexipage:accordionSection</componentName>
         </componentInstances>
-        <name>Facet-18e5b8a5-65bd-4046-acd4-d90cb0e3fee4</name>
+        <name>Facet-b60d3ee5-4e21-41fe-a986-5f1c5c919c82</name>
         <type>Facet</type>
     </flexiPageRegions>
     <flexiPageRegions>
         <componentInstances>
             <componentInstanceProperties>
                 <name>accordionSections</name>
-                <value>Facet-18e5b8a5-65bd-4046-acd4-d90cb0e3fee4</value>
+                <value>Facet-b60d3ee5-4e21-41fe-a986-5f1c5c919c82</value>
             </componentInstanceProperties>
             <componentInstanceProperties>
                 <name>defaultSectionName</name>
@@ -76,17 +90,28 @@
             </componentInstanceProperties>
             <componentName>flexipage:accordion</componentName>
         </componentInstances>
-        <name>main</name>
-        <type>Region</type>
-    </flexiPageRegions>
-    <flexiPageRegions>
-        <componentInstances>
-            <componentName>force:detailPanel</componentName>
-        </componentInstances>
         <name>rightsidebar</name>
         <type>Region</type>
     </flexiPageRegions>
     <flexiPageRegions>
+        <componentInstances>
+            <componentName>force:relatedListQuickLinksContainer</componentName>
+        </componentInstances>
+        <componentInstances>
+            <componentInstanceProperties>
+                <name>displayNumber</name>
+                <value>3</value>
+            </componentInstanceProperties>
+            <componentInstanceProperties>
+                <name>recommendationTypes</name>
+                <value>[&quot;users&quot;,&quot;groups&quot;]</value>
+            </componentInstanceProperties>
+            <componentInstanceProperties>
+                <name>title</name>
+                <value>Einstein Recommendations</value>
+            </componentInstanceProperties>
+            <componentName>forceChatter:recommendations</componentName>
+        </componentInstances>
         <name>leftsidebar</name>
         <type>Region</type>
     </flexiPageRegions>

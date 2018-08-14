@@ -1,0 +1,5 @@
+({
+    getAllSchools : function(component, event, helper) {
+        helper.fetchAllSchools(component, event, helper);
+    }
+})
