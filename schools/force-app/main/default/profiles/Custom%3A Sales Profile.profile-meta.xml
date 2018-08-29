@@ -15,6 +15,26 @@
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
+        <editable>true</editable>
+        <field>Profile__c.Age__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Profile__c.Born_date__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Profile__c.Email__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Profile__c.Phone__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
         <editable>false</editable>
         <field>Profile__c.Profile_Picture__c</field>
         <readable>true</readable>
@@ -29,6 +49,11 @@
         <field>Student__c.Teacher__c</field>
         <readable>true</readable>
     </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Teacher__c.Profile_ID__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
     <layoutAssignments>
         <layout>Category__c-Category Layout</layout>
     </layoutAssignments>
@@ -36,7 +61,7 @@
         <layout>Discipline_Student__c-Discipline Student Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>Discipline__c-Discipline Layout</layout>
+        <layout>Grade__c-Grade Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Profile__c-Profile Layout</layout>
