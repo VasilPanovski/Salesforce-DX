@@ -257,16 +257,15 @@
     [
         "c:\\Users\\vpanovski\\Documents\\SFDX-Github_Repo\\Salesforce-DX\\schools\\force-app\\main\\default\\classes",
         {
+            "state": "u",
             "sourcePath": "c:\\Users\\vpanovski\\Documents\\SFDX-Github_Repo\\Salesforce-DX\\schools\\force-app\\main\\default\\classes",
             "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1535459756593,
-            "changeTime": 1535459756593,
-            "contentHash": "4e18c902e88004d850413f3eb2cd69666f5b3d61",
             "isMetadataFile": false,
-            "state": "u",
+            "size": 0,
+            "modifiedTime": 1535641254096,
+            "changeTime": 1535641254096,
             "isWorkspace": false,
-            "isArtifactRoot": false
+            "contentHash": "c4d23bdaef539c1af35ecf348b36c36ee43e4717"
         }
     ],
     [
@@ -365,9 +364,9 @@
             "sourcePath": "c:\\Users\\vpanovski\\Documents\\SFDX-Github_Repo\\Salesforce-DX\\schools\\force-app\\main\\default\\layouts",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1535547099050,
-            "changeTime": 1535547099050,
-            "contentHash": "fc7cc3b6a788bcb4f3d9737122a3bd72791e9db9",
+            "modifiedTime": 1535631331136,
+            "changeTime": 1535631331152,
+            "contentHash": "61a428b3b3c9fd852abcbc8a2be9d792c2e4e95a",
             "isMetadataFile": false,
             "state": "u"
         }
@@ -407,27 +406,26 @@
         {
             "sourcePath": "c:\\Users\\vpanovski\\Documents\\SFDX-Github_Repo\\Salesforce-DX\\schools\\force-app\\main\\default\\layouts\\Discipline__c-Discipline Layout.layout-meta.xml",
             "isDirectory": false,
-            "size": 3079,
-            "modifiedTime": 1535361462645,
-            "changeTime": 1535361462645,
-            "contentHash": "876727cbba6cda7d011ab6967c0f551f97ba9fb2",
+            "size": 3088,
+            "modifiedTime": 1535631445652,
+            "changeTime": 1535631445652,
+            "contentHash": "b7d991b662ea5629f43cdaef7cb0e81f46899d9f",
             "isMetadataFile": true,
-            "state": "n",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
         "c:\\Users\\vpanovski\\Documents\\SFDX-Github_Repo\\Salesforce-DX\\schools\\force-app\\main\\default\\layouts\\Profile__c-Profile Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "c:\\Users\\vpanovski\\Documents\\SFDX-Github_Repo\\Salesforce-DX\\schools\\force-app\\main\\default\\layouts\\Profile__c-Profile Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 3700,
             "modifiedTime": 1535549001872,
             "changeTime": 1535549001872,
-            "contentHash": "266822848ecb5fdaede981c8bc22855db40cf175"
+            "contentHash": "266822848ecb5fdaede981c8bc22855db40cf175",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
@@ -450,14 +448,12 @@
         {
             "sourcePath": "c:\\Users\\vpanovski\\Documents\\SFDX-Github_Repo\\Salesforce-DX\\schools\\force-app\\main\\default\\layouts\\Student__c-Student Layout.layout-meta.xml",
             "isDirectory": false,
-            "size": 2478,
-            "modifiedTime": 1533905463634,
-            "changeTime": 1533905463634,
-            "contentHash": "07f3e13e0952bfaf06cf46e1ab40edefe047f96d",
+            "size": 3165,
+            "modifiedTime": 1535641672218,
+            "changeTime": 1535641672218,
+            "contentHash": "ce4128f97a10ec12253541a83835d05162474137",
             "isMetadataFile": true,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "state": "u"
         }
     ],
     [
@@ -465,27 +461,25 @@
         {
             "sourcePath": "c:\\Users\\vpanovski\\Documents\\SFDX-Github_Repo\\Salesforce-DX\\schools\\force-app\\main\\default\\layouts\\Teacher_Student__c-Teacher Student Layout.layout-meta.xml",
             "isDirectory": false,
-            "size": 2071,
-            "modifiedTime": 1533742100057,
-            "changeTime": 1533742100057,
-            "contentHash": "140a5bede6090e309feddde04f139d04a3f325f3",
+            "size": 2077,
+            "modifiedTime": 1535630883936,
+            "changeTime": 1535630883936,
+            "contentHash": "b23190e0abed029c0e2b60d63d58107f96b0a30c",
             "isMetadataFile": true,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "state": "u"
         }
     ],
     [
         "c:\\Users\\vpanovski\\Documents\\SFDX-Github_Repo\\Salesforce-DX\\schools\\force-app\\main\\default\\layouts\\Teacher__c-Teacher Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "c:\\Users\\vpanovski\\Documents\\SFDX-Github_Repo\\Salesforce-DX\\schools\\force-app\\main\\default\\layouts\\Teacher__c-Teacher Layout.layout-meta.xml",
             "isDirectory": false,
+            "size": 3165,
+            "modifiedTime": 1535620467877,
+            "changeTime": 1535620467877,
+            "contentHash": "b0c459a5936d2a6d18b2e4dfdaa372f9d36bff73",
             "isMetadataFile": true,
-            "size": 2745,
-            "modifiedTime": 1535549001864,
-            "changeTime": 1535549001864,
-            "contentHash": "3b29c167a00730127db0a04bb7ee0bedb5ce7ddd"
+            "state": "u"
         }
     ],
     [
@@ -494,9 +488,9 @@
             "sourcePath": "c:\\Users\\vpanovski\\Documents\\SFDX-Github_Repo\\Salesforce-DX\\schools\\force-app\\main\\default\\objects",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1535547099026,
-            "changeTime": 1535547099026,
-            "contentHash": "ef14eb736ffc71b6013eedd6765f21e96048863f",
+            "modifiedTime": 1535620467862,
+            "changeTime": 1535620467862,
+            "contentHash": "84f557e4d6596c6a1d646e86cbb425bcff903efd",
             "isMetadataFile": false,
             "state": "u"
         }
@@ -507,13 +501,12 @@
             "sourcePath": "c:\\Users\\vpanovski\\Documents\\SFDX-Github_Repo\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Category__c",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1535459515113,
-            "changeTime": 1535459515113,
-            "contentHash": "51fbbdfe5dd7d5ac4cddfad95190787539b96c84",
+            "modifiedTime": 1535542562741,
+            "changeTime": 1535542562741,
+            "contentHash": "f051dbfb70cd6d5f4195161ec60a3ff16a97013d",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isWorkspace": false
         }
     ],
     [
@@ -522,7 +515,7 @@
             "sourcePath": "c:\\Users\\vpanovski\\Documents\\SFDX-Github_Repo\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Category__c\\Category__c.object-meta.xml",
             "isDirectory": false,
             "size": 2184,
-            "modifiedTime": 1535361462648,
+            "modifiedTime": 1535631114909,
             "changeTime": 1535361462648,
             "contentHash": "df58c1fd05718427c8f3c0c0aca386868322e960",
             "isMetadataFile": true,
@@ -537,13 +530,12 @@
             "sourcePath": "c:\\Users\\vpanovski\\Documents\\SFDX-Github_Repo\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Category__c\\fields",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1535459515125,
-            "changeTime": 1535459515125,
-            "contentHash": "011a3d8a5bbc2cfc8eec2f0d6d53a89cae7fe045",
+            "modifiedTime": 1535544881441,
+            "changeTime": 1535544881441,
+            "contentHash": "3d592e10ce10d074522b08cd4d6ffa64d629fe9b",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isWorkspace": false
         }
     ],
     [
@@ -657,13 +649,12 @@
             "sourcePath": "c:\\Users\\vpanovski\\Documents\\SFDX-Github_Repo\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Discipline__c",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1535459515144,
-            "changeTime": 1535459515144,
-            "contentHash": "da6477a1c9102605a3ae6ff3618bf30aef71d8bb",
+            "modifiedTime": 1535542358105,
+            "changeTime": 1535542358105,
+            "contentHash": "de0d13545c4cf5cc0dbe81059aa52332a8a0f599",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isWorkspace": false
         }
     ],
     [
@@ -672,7 +663,7 @@
             "sourcePath": "c:\\Users\\vpanovski\\Documents\\SFDX-Github_Repo\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Discipline__c\\Discipline__c.object-meta.xml",
             "isDirectory": false,
             "size": 2144,
-            "modifiedTime": 1535361462652,
+            "modifiedTime": 1535631090003,
             "changeTime": 1535361462652,
             "contentHash": "64ad9f220d4dfda22033dbe694fb9f2f03ecb609",
             "isMetadataFile": true,
@@ -729,14 +720,14 @@
     [
         "c:\\Users\\vpanovski\\Documents\\SFDX-Github_Repo\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Profile__c\\fields",
         {
-            "state": "u",
             "sourcePath": "c:\\Users\\vpanovski\\Documents\\SFDX-Github_Repo\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Profile__c\\fields",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1535549001847,
-            "changeTime": 1535549001847,
-            "contentHash": "a6e292851d5aa72113094df6f55b088a142f36f3"
+            "modifiedTime": 1535629180229,
+            "changeTime": 1535629180229,
+            "contentHash": "5b750085924b98e89a48224ccdd33f112f866350",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -763,36 +754,6 @@
             "modifiedTime": 1534238537364,
             "changeTime": 1534238537364,
             "contentHash": "2e808271c875b9e317a5977bc421e32b6f0802ba",
-            "isMetadataFile": true,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "c:\\Users\\vpanovski\\Documents\\SFDX-Github_Repo\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Profile__c\\fields\\Student__c.field-meta.xml",
-        {
-            "sourcePath": "c:\\Users\\vpanovski\\Documents\\SFDX-Github_Repo\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Profile__c\\fields\\Student__c.field-meta.xml",
-            "isDirectory": false,
-            "size": 637,
-            "modifiedTime": 1534238537372,
-            "changeTime": 1534238537372,
-            "contentHash": "5fb050f689e6a5f13d4e7fb275ed387e5c3f5c49",
-            "isMetadataFile": true,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "c:\\Users\\vpanovski\\Documents\\SFDX-Github_Repo\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Profile__c\\fields\\Teacher__c.field-meta.xml",
-        {
-            "sourcePath": "c:\\Users\\vpanovski\\Documents\\SFDX-Github_Repo\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Profile__c\\fields\\Teacher__c.field-meta.xml",
-            "isDirectory": false,
-            "size": 637,
-            "modifiedTime": 1534238537378,
-            "changeTime": 1534238537378,
-            "contentHash": "fc1d4c8af7d50a45b1b6bcef185f9de654358d9e",
             "isMetadataFile": true,
             "state": "u",
             "isWorkspace": false,
@@ -910,13 +871,11 @@
             "sourcePath": "c:\\Users\\vpanovski\\Documents\\SFDX-Github_Repo\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Student__c\\fields",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1533905463624,
-            "changeTime": 1533905463624,
-            "contentHash": "4a605ac3f44306f35837f075b6fb6d2b8997c893",
+            "modifiedTime": 1535641672194,
+            "changeTime": 1535641672194,
+            "contentHash": "cca28723af80a84af521c1366c392aa620dc132c",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "state": "u"
         }
     ],
     [
@@ -1000,43 +959,11 @@
             "sourcePath": "c:\\Users\\vpanovski\\Documents\\SFDX-Github_Repo\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Teacher_Student__c\\fields",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1533742100044,
-            "changeTime": 1533742100044,
-            "contentHash": "c263e03cd64c9690c68ca860fffe0ea7e1a55bae",
+            "modifiedTime": 1535630883917,
+            "changeTime": 1535630883917,
+            "contentHash": "0a6294aa6f721df9d1322ebb0f2b214fdd89a711",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "c:\\Users\\vpanovski\\Documents\\SFDX-Github_Repo\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Teacher_Student__c\\fields\\Student__c.field-meta.xml",
-        {
-            "sourcePath": "c:\\Users\\vpanovski\\Documents\\SFDX-Github_Repo\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Teacher_Student__c\\fields\\Student__c.field-meta.xml",
-            "isDirectory": false,
-            "size": 614,
-            "modifiedTime": 1533742100043,
-            "changeTime": 1533742100043,
-            "contentHash": "03b537f6765f1337222f2909751ff05ea98c9533",
-            "isMetadataFile": true,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "c:\\Users\\vpanovski\\Documents\\SFDX-Github_Repo\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Teacher_Student__c\\fields\\Teacher__c.field-meta.xml",
-        {
-            "sourcePath": "c:\\Users\\vpanovski\\Documents\\SFDX-Github_Repo\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Teacher_Student__c\\fields\\Teacher__c.field-meta.xml",
-            "isDirectory": false,
-            "size": 614,
-            "modifiedTime": 1533742100048,
-            "changeTime": 1533742100048,
-            "contentHash": "dbdf7cbfcc80e7951e23bec032a2afa731d68f2b",
-            "isMetadataFile": true,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "state": "u"
         }
     ],
     [
@@ -1045,7 +972,7 @@
             "sourcePath": "c:\\Users\\vpanovski\\Documents\\SFDX-Github_Repo\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Teacher_Student__c\\Teacher_Student__c.object-meta.xml",
             "isDirectory": false,
             "size": 2217,
-            "modifiedTime": 1535361462654,
+            "modifiedTime": 1535631475828,
             "changeTime": 1535361462654,
             "contentHash": "faeb4c151b0af0dce67e3541629ddfcc2ccd731c",
             "isMetadataFile": true,
@@ -1072,14 +999,14 @@
     [
         "c:\\Users\\vpanovski\\Documents\\SFDX-Github_Repo\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Teacher__c\\fields",
         {
-            "state": "u",
             "sourcePath": "c:\\Users\\vpanovski\\Documents\\SFDX-Github_Repo\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Teacher__c\\fields",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1535549001816,
-            "changeTime": 1535549001816,
-            "contentHash": "496bc5c42c8a6e27af5d238e1b23486760ddadd6"
+            "modifiedTime": 1535620467838,
+            "changeTime": 1535620467838,
+            "contentHash": "dc3277234b1e7a5d324791fe92ee271aa72f710d",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -1133,28 +1060,12 @@
             "sourcePath": "c:\\Users\\vpanovski\\Documents\\SFDX-Github_Repo\\Salesforce-DX\\schools\\force-app\\main\\default\\permissionsets",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1533905463743,
-            "changeTime": 1533905463743,
-            "contentHash": "af9c61620e1edcd45021f683ccbfb272a5c688dd",
+            "modifiedTime": 1535631661440,
+            "changeTime": 1535631661440,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "c:\\Users\\vpanovski\\Documents\\SFDX-Github_Repo\\Salesforce-DX\\schools\\force-app\\main\\default\\permissionsets\\Admin.permissionset-meta.xml",
-        {
-            "sourcePath": "c:\\Users\\vpanovski\\Documents\\SFDX-Github_Repo\\Salesforce-DX\\schools\\force-app\\main\\default\\permissionsets\\Admin.permissionset-meta.xml",
-            "isDirectory": false,
-            "size": 1746,
-            "modifiedTime": 1533905463744,
-            "changeTime": 1533905463744,
-            "contentHash": "c3dd604f72486b5ae20d7da349a5bc91cfcbfddf",
-            "isMetadataFile": true,
-            "state": "n",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isWorkspace": false
         }
     ],
     [
@@ -1175,53 +1086,53 @@
     [
         "c:\\Users\\vpanovski\\Documents\\SFDX-Github_Repo\\Salesforce-DX\\schools\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "c:\\Users\\vpanovski\\Documents\\SFDX-Github_Repo\\Salesforce-DX\\schools\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
             "isDirectory": false,
+            "size": 25329,
+            "modifiedTime": 1535641672429,
+            "changeTime": 1535641672429,
+            "contentHash": "efef277575e59de6bcf7bf55e886d67da72559bc",
             "isMetadataFile": true,
-            "size": 23409,
-            "modifiedTime": 1535549002014,
-            "changeTime": 1535549002014,
-            "contentHash": "7ef5bb24d035c9276e531ef8bed26da071ff75ab"
+            "state": "u"
         }
     ],
     [
         "c:\\Users\\vpanovski\\Documents\\SFDX-Github_Repo\\Salesforce-DX\\schools\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "c:\\Users\\vpanovski\\Documents\\SFDX-Github_Repo\\Salesforce-DX\\schools\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
             "isDirectory": false,
+            "size": 8901,
+            "modifiedTime": 1535641672307,
+            "changeTime": 1535641672307,
+            "contentHash": "05b1888f3058f7ac9c81f95cffd5270aca530426",
             "isMetadataFile": true,
-            "size": 6978,
-            "modifiedTime": 1535549001922,
-            "changeTime": 1535549001922,
-            "contentHash": "2dc75eaad93a2d42d78000af1fc47963a484898a"
+            "state": "u"
         }
     ],
     [
         "c:\\Users\\vpanovski\\Documents\\SFDX-Github_Repo\\Salesforce-DX\\schools\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "c:\\Users\\vpanovski\\Documents\\SFDX-Github_Repo\\Salesforce-DX\\schools\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
             "isDirectory": false,
+            "size": 8901,
+            "modifiedTime": 1535641672260,
+            "changeTime": 1535641672260,
+            "contentHash": "05b1888f3058f7ac9c81f95cffd5270aca530426",
             "isMetadataFile": true,
-            "size": 6978,
-            "modifiedTime": 1535549001895,
-            "changeTime": 1535549001895,
-            "contentHash": "2dc75eaad93a2d42d78000af1fc47963a484898a"
+            "state": "u"
         }
     ],
     [
         "c:\\Users\\vpanovski\\Documents\\SFDX-Github_Repo\\Salesforce-DX\\schools\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "c:\\Users\\vpanovski\\Documents\\SFDX-Github_Repo\\Salesforce-DX\\schools\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
             "isDirectory": false,
+            "size": 9239,
+            "modifiedTime": 1535641672367,
+            "changeTime": 1535641672367,
+            "contentHash": "1cb03893cd6b0dee629d21f475db65ecd31a2d7f",
             "isMetadataFile": true,
-            "size": 7316,
-            "modifiedTime": 1535549001962,
-            "changeTime": 1535549001962,
-            "contentHash": "4bb2305485c499315f3b5a9fc6d41bcf9958b409"
+            "state": "u"
         }
     ],
     [
@@ -1275,13 +1186,12 @@
             "sourcePath": "c:\\Users\\vpanovski\\Documents\\SFDX-Github_Repo\\Salesforce-DX\\schools",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1535459093614,
-            "changeTime": 1535459093614,
-            "contentHash": "f140746d6e59e7fd8adf65d3aaedf10e5716ca53",
+            "modifiedTime": 1535544864043,
+            "changeTime": 1535544864043,
+            "contentHash": "829e604d4e7d5aae25f04d899b0bc5eccc598817",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": true,
-            "isArtifactRoot": false
+            "isWorkspace": true
         }
     ],
     [
@@ -1365,79 +1275,378 @@
     [
         "c:\\Users\\vpanovski\\Documents\\SFDX-Github_Repo\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Teacher__c\\fields\\Profile_ID__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "c:\\Users\\vpanovski\\Documents\\SFDX-Github_Repo\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Teacher__c\\fields\\Profile_ID__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 509,
             "modifiedTime": 1535549001815,
             "changeTime": 1535549001815,
-            "contentHash": "c18ba2fdaf6d705e31319a910dc34a4e84f112a3"
+            "contentHash": "c18ba2fdaf6d705e31319a910dc34a4e84f112a3",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "c:\\Users\\vpanovski\\Documents\\SFDX-Github_Repo\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Teacher__c\\fields\\Title__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "c:\\Users\\vpanovski\\Documents\\SFDX-Github_Repo\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Teacher__c\\fields\\Title__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 2126,
             "modifiedTime": 1535549001821,
             "changeTime": 1535549001821,
-            "contentHash": "7b33d42dc015dacf62b8de3cad550cffe19a4cc0"
+            "contentHash": "7b33d42dc015dacf62b8de3cad550cffe19a4cc0",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "c:\\Users\\vpanovski\\Documents\\SFDX-Github_Repo\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Profile__c\\fields\\Age__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "c:\\Users\\vpanovski\\Documents\\SFDX-Github_Repo\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Profile__c\\fields\\Age__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 418,
             "modifiedTime": 1535549001835,
             "changeTime": 1535549001835,
-            "contentHash": "292779a4354016b61484d3fcfe984c8c0676a58f"
+            "contentHash": "292779a4354016b61484d3fcfe984c8c0676a58f",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "c:\\Users\\vpanovski\\Documents\\SFDX-Github_Repo\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Profile__c\\fields\\Born_date__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "c:\\Users\\vpanovski\\Documents\\SFDX-Github_Repo\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Profile__c\\fields\\Born_date__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 351,
             "modifiedTime": 1535549001840,
             "changeTime": 1535549001840,
-            "contentHash": "40cdab521aca3dec47e20dba35be212654ecea68"
+            "contentHash": "40cdab521aca3dec47e20dba35be212654ecea68",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "c:\\Users\\vpanovski\\Documents\\SFDX-Github_Repo\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Profile__c\\fields\\Email__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "c:\\Users\\vpanovski\\Documents\\SFDX-Github_Repo\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Profile__c\\fields\\Email__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 371,
             "modifiedTime": 1535549001847,
             "changeTime": 1535549001847,
-            "contentHash": "ed864bee6b7faf2d8c7b6d6f1f5cae6e9ce98f35"
+            "contentHash": "ed864bee6b7faf2d8c7b6d6f1f5cae6e9ce98f35",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "c:\\Users\\vpanovski\\Documents\\SFDX-Github_Repo\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Profile__c\\fields\\Phone__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "c:\\Users\\vpanovski\\Documents\\SFDX-Github_Repo\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Profile__c\\fields\\Phone__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 344,
             "modifiedTime": 1535549001852,
             "changeTime": 1535549001852,
-            "contentHash": "ec86089f8dde9b67ec3a536ad34a4cdbf646a5e3"
+            "contentHash": "ec86089f8dde9b67ec3a536ad34a4cdbf646a5e3",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\vpanovski\\Documents\\SFDX-Github_Repo\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Teacher__c\\fields\\First_Name__c.field-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\vpanovski\\Documents\\SFDX-Github_Repo\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Teacher__c\\fields\\First_Name__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 365,
+            "modifiedTime": 1535620467830,
+            "changeTime": 1535620467830,
+            "contentHash": "be8f3eb8d5a845189f82936cdcd6c8d644fe28d8",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\vpanovski\\Documents\\SFDX-Github_Repo\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Teacher__c\\fields\\Last_Name__c.field-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\vpanovski\\Documents\\SFDX-Github_Repo\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Teacher__c\\fields\\Last_Name__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 363,
+            "modifiedTime": 1535620467837,
+            "changeTime": 1535620467837,
+            "contentHash": "11bb7c98bf7928a1e2a08e20f0c8e448974fbb33",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\vpanovski\\Documents\\SFDX-Github_Repo\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Teacher__c\\fields\\Second_Name__c.field-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\vpanovski\\Documents\\SFDX-Github_Repo\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Teacher__c\\fields\\Second_Name__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 367,
+            "modifiedTime": 1535620467844,
+            "changeTime": 1535620467844,
+            "contentHash": "0910a7f1aa29f54f7cd9207cac67576940cb3574",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\vpanovski\\Documents\\SFDX-Github_Repo\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Student__c\\fields\\First_Name__c.field-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\vpanovski\\Documents\\SFDX-Github_Repo\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Student__c\\fields\\First_Name__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 365,
+            "modifiedTime": 1535620467855,
+            "changeTime": 1535620467855,
+            "contentHash": "be8f3eb8d5a845189f82936cdcd6c8d644fe28d8",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\vpanovski\\Documents\\SFDX-Github_Repo\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Student__c\\fields\\Last_Name__c.field-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\vpanovski\\Documents\\SFDX-Github_Repo\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Student__c\\fields\\Last_Name__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 363,
+            "modifiedTime": 1535620467856,
+            "changeTime": 1535620467856,
+            "contentHash": "11bb7c98bf7928a1e2a08e20f0c8e448974fbb33",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\vpanovski\\Documents\\SFDX-Github_Repo\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Student__c\\fields\\Second_Name__c.field-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\vpanovski\\Documents\\SFDX-Github_Repo\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Student__c\\fields\\Second_Name__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 367,
+            "modifiedTime": 1535620467858,
+            "changeTime": 1535620467858,
+            "contentHash": "0910a7f1aa29f54f7cd9207cac67576940cb3574",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\vpanovski\\Documents\\SFDX-Github_Repo\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Trigger_Settings__c\\Trigger_Settings__c.object-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\vpanovski\\Documents\\SFDX-Github_Repo\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Trigger_Settings__c\\Trigger_Settings__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 364,
+            "modifiedTime": 1535620467864,
+            "changeTime": 1535620467864,
+            "contentHash": "3f664d349ef6e7730e770ca2b9657d41ecc82409",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\vpanovski\\Documents\\SFDX-Github_Repo\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Trigger_Settings__c",
+        {
+            "sourcePath": "c:\\Users\\vpanovski\\Documents\\SFDX-Github_Repo\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Trigger_Settings__c",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1535620467863,
+            "changeTime": 1535620467863,
+            "contentHash": "e98eb3b310a2b229a85e5819ba8ef569237e4964",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\vpanovski\\Documents\\SFDX-Github_Repo\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Profile__c\\fields\\Student_ID__c.field-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\vpanovski\\Documents\\SFDX-Github_Repo\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Profile__c\\fields\\Student_ID__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 548,
+            "modifiedTime": 1535629180225,
+            "changeTime": 1535629180225,
+            "contentHash": "fe88c821aefef97b491a469c35f766a25e3598ae",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\vpanovski\\Documents\\SFDX-Github_Repo\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Profile__c\\fields\\Teacher_ID__c.field-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\vpanovski\\Documents\\SFDX-Github_Repo\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Profile__c\\fields\\Teacher_ID__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 548,
+            "modifiedTime": 1535629180250,
+            "changeTime": 1535629180250,
+            "contentHash": "c55fb904c93f9cd342fbca7e75fc4ef4821fc67d",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\vpanovski\\Documents\\SFDX-Github_Repo\\Salesforce-DX\\schools\\force-app\\main\\default\\classes\\ITrigger.cls",
+        {
+            "sourcePath": "c:\\Users\\vpanovski\\Documents\\SFDX-Github_Repo\\Salesforce-DX\\schools\\force-app\\main\\default\\classes\\ITrigger.cls",
+            "isDirectory": false,
+            "size": 808,
+            "modifiedTime": 1535623619471,
+            "changeTime": 1535623619471,
+            "contentHash": "6dc87264e30e609d59b1288a5e3bbb30120e419b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\vpanovski\\Documents\\SFDX-Github_Repo\\Salesforce-DX\\schools\\force-app\\main\\default\\classes\\ITrigger.cls-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\vpanovski\\Documents\\SFDX-Github_Repo\\Salesforce-DX\\schools\\force-app\\main\\default\\classes\\ITrigger.cls-meta.xml",
+            "isDirectory": false,
+            "size": 186,
+            "modifiedTime": 1535622428379,
+            "changeTime": 1535622428379,
+            "contentHash": "c80baa26caf9d4c0a77c2bee560dd1769b08093c",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\vpanovski\\Documents\\SFDX-Github_Repo\\Salesforce-DX\\schools\\force-app\\main\\default\\classes\\TriggerDispatcher.cls",
+        {
+            "sourcePath": "c:\\Users\\vpanovski\\Documents\\SFDX-Github_Repo\\Salesforce-DX\\schools\\force-app\\main\\default\\classes\\TriggerDispatcher.cls",
+            "isDirectory": false,
+            "size": 1350,
+            "modifiedTime": 1535623616995,
+            "changeTime": 1535623616995,
+            "contentHash": "cc448c2624e830878435d24dd0cbedd406383239",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\vpanovski\\Documents\\SFDX-Github_Repo\\Salesforce-DX\\schools\\force-app\\main\\default\\classes\\TriggerDispatcher.cls-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\vpanovski\\Documents\\SFDX-Github_Repo\\Salesforce-DX\\schools\\force-app\\main\\default\\classes\\TriggerDispatcher.cls-meta.xml",
+            "isDirectory": false,
+            "size": 195,
+            "modifiedTime": 1535623361519,
+            "changeTime": 1535623361519,
+            "contentHash": "512f4ec3b7c0e6c6511c23060cbc6dfcee306116",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\vpanovski\\Documents\\SFDX-Github_Repo\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Teacher_Student__c\\fields\\Student_ID__c.field-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\vpanovski\\Documents\\SFDX-Github_Repo\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Teacher_Student__c\\fields\\Student_ID__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 525,
+            "modifiedTime": 1535630883916,
+            "changeTime": 1535630883916,
+            "contentHash": "558f59cdd2c1b1647e109e65adf76db111bb19e1",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\vpanovski\\Documents\\SFDX-Github_Repo\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Teacher_Student__c\\fields\\Teacher_ID__c.field-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\vpanovski\\Documents\\SFDX-Github_Repo\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Teacher_Student__c\\fields\\Teacher_ID__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 525,
+            "modifiedTime": 1535630883922,
+            "changeTime": 1535630883922,
+            "contentHash": "ababeb4be255347a1dfa8efed9218e29b318fa3b",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\vpanovski\\Documents\\SFDX-Github_Repo\\Salesforce-DX\\schools\\force-app\\main\\default\\classes\\Teacher.cls",
+        {
+            "sourcePath": "c:\\Users\\vpanovski\\Documents\\SFDX-Github_Repo\\Salesforce-DX\\schools\\force-app\\main\\default\\classes\\Teacher.cls",
+            "isDirectory": false,
+            "size": 68,
+            "modifiedTime": 1535632956491,
+            "changeTime": 1535632956491,
+            "contentHash": "e5671164cd9008ac50b00acffee4b0ab72881099",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\vpanovski\\Documents\\SFDX-Github_Repo\\Salesforce-DX\\schools\\force-app\\main\\default\\classes\\Teacher.cls-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\vpanovski\\Documents\\SFDX-Github_Repo\\Salesforce-DX\\schools\\force-app\\main\\default\\classes\\Teacher.cls-meta.xml",
+            "isDirectory": false,
+            "size": 185,
+            "modifiedTime": 1535632956496,
+            "changeTime": 1535632956496,
+            "contentHash": "852bba81e865cc4efa52b7f3d906f59c377118b7",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\vpanovski\\Documents\\SFDX-Github_Repo\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Student__c\\fields\\Profile_ID__c.field-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\vpanovski\\Documents\\SFDX-Github_Repo\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Student__c\\fields\\Profile_ID__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 509,
+            "modifiedTime": 1535641672203,
+            "changeTime": 1535641672203,
+            "contentHash": "753e00ddef243bce09de9a98868f64f326fb1aeb",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\vpanovski\\Documents\\SFDX-Github_Repo\\Salesforce-DX\\schools\\force-app\\main\\default\\classes\\InvalidAccountNameException.cls",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\vpanovski\\Documents\\SFDX-Github_Repo\\Salesforce-DX\\schools\\force-app\\main\\default\\classes\\InvalidAccountNameException.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 159,
+            "modifiedTime": 1535641968953,
+            "changeTime": 1535641968953,
+            "contentHash": "bf80890d2b2d9703253f06406446b63348c7d491"
+        }
+    ],
+    [
+        "c:\\Users\\vpanovski\\Documents\\SFDX-Github_Repo\\Salesforce-DX\\schools\\force-app\\main\\default\\classes\\InvalidAccountNameException.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\vpanovski\\Documents\\SFDX-Github_Repo\\Salesforce-DX\\schools\\force-app\\main\\default\\classes\\InvalidAccountNameException.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 205,
+            "modifiedTime": 1535640675131,
+            "changeTime": 1535640675131,
+            "contentHash": "049679118ea7da3ca424e7971df6d2c9fd6dbbca"
+        }
+    ],
+    [
+        "c:\\Users\\vpanovski\\Documents\\SFDX-Github_Repo\\Salesforce-DX\\schools\\force-app\\main\\default\\classes\\StudentDao.cls",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\vpanovski\\Documents\\SFDX-Github_Repo\\Salesforce-DX\\schools\\force-app\\main\\default\\classes\\StudentDao.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 488,
+            "modifiedTime": 1535642083038,
+            "changeTime": 1535642083038,
+            "contentHash": "983fefef14e53f97caf68d28c94ead321e43c6b0"
+        }
+    ],
+    [
+        "c:\\Users\\vpanovski\\Documents\\SFDX-Github_Repo\\Salesforce-DX\\schools\\force-app\\main\\default\\classes\\StudentDao.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\vpanovski\\Documents\\SFDX-Github_Repo\\Salesforce-DX\\schools\\force-app\\main\\default\\classes\\StudentDao.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 188,
+            "modifiedTime": 1535641254101,
+            "changeTime": 1535641254101,
+            "contentHash": "59dda7df9d903e9620fc14a2bdb589afca6271fd"
         }
     ]
 ]

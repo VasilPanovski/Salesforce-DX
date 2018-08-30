@@ -12,11 +12,11 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Required</behavior>
-                <field>Student__c</field>
+                <field>Student_ID__c</field>
             </layoutItems>
             <layoutItems>
                 <behavior>Required</behavior>
-                <field>Teacher__c</field>
+                <field>Teacher_ID__c</field>
             </layoutItems>
         </layoutColumns>
         <layoutColumns/>
