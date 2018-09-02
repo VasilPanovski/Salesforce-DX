@@ -14,14 +14,14 @@
                 <behavior>Edit</behavior>
                 <field>Profile_Picture__c</field>
             </layoutItems>
-            <layoutItems>
+            <!-- <layoutItems>
                 <behavior>Required</behavior>
                 <field>Student__c</field>
-            </layoutItems>
-            <layoutItems>
+            </layoutItems> -->
+            <!-- <layoutItems>
                 <behavior>Required</behavior>
                 <field>Teacher__c</field>
-            </layoutItems>
+            </layoutItems> -->
             <layoutItems>
                 <behavior>Required</behavior>
                 <field>Discription__c</field>

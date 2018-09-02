@@ -9,7 +9,7 @@ public class Student extends SchoolAccount {
     }
 
     public void addTeacher(Teacher teacher) {
-        this.createJunction(this.accountId, teacher.Id);
+        this.createJunction(this.accountId, teacher.accountId);
         this.teachers.add(teacher);
     }
 
@@ -20,7 +20,7 @@ public class Student extends SchoolAccount {
     protected override sObject save() {
         Student__c student = StudentDao.save(super.fullName, super.schoolId, this.categoryId, super.profile);
 
-        return teacher;
+        return student;
     } 
 
     private void createJunction(Id studentId, Id teacherId) {

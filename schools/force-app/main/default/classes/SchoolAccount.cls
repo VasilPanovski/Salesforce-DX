@@ -1,4 +1,4 @@
-public with sharing class SchoolAccount {
+public abstract class SchoolAccount {
     
     protected Id accountId {get; set;}
     protected Id schoolId {get; set;}
