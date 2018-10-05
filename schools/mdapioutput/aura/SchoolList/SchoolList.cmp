@@ -1,0 +1,21 @@
+<aura:component controller="SchoolController" access="global">
+    <aura:handler name="init" action="{!c.getAllSchools}" value="{!this}" />
+    <aura:attribute name="schoolList" type="List" />
+    <lightning:card title="Schools">
+        <p class="slds-p-horizontal_small">
+            <aura:iteration items="{!v.schoolList}" var="school">
+                <lightning:recordViewForm recordId="{!school.Id}" objectApiName="School__c">
+                    <div class="slds-box slds-theme_default">
+                        <lightning:outputField fieldName="Name" />
+                        <lightning:outputField fieldName="School_Type__c" />
+                        <lightning:outputField fieldName="Address__c" />
+                    </div>
+                </lightning:recordViewForm>
+                <br />
+            </aura:iteration>
+        </p>
+        <aura:set attribute="actions">
+            <lightning:button label="New" onclick="{!c.deleteRecord}" />
+        </aura:set>
+    </lightning:card>
+</aura:component>	

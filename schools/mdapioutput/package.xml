@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+  <types>
+    <name>AuraDefinitionBundle</name>
+    <members>AllSchoolsApp</members>
+    <members>SchoolList</members>
+  </types>
+  <types>
+    <name>ApexClass</name>
+    <members>ITrigger</members>
+    <members>InvalidAccountNameException</members>
+    <members>SchoolAccount</members>
+    <members>SchoolController</members>
+    <members>SchoolType</members>
+    <members>Student</members>
+    <members>StudentDao</members>
+    <members>Teacher</members>
+    <members>TeacherDao</members>
+    <members>TestObjectsCreator</members>
+    <members>TriggerDispatcher</members>
+  </types>
+  <types>
+    <name>FlexiPage</name>
+    <members>Schools</members>
+  </types>
+  <types>
+    <name>Layout</name>
+    <members>Category__c-Category Layout</members>
+    <members>Discipline_Student__c-Discipline Student Layout</members>
+    <members>Discipline__c-Discipline Layout</members>
+    <members>Grade__c-Grade Layout</members>
+    <members>Level__c-Level Layout</members>
+    <members>Profile__c-Profile Layout</members>
+    <members>School__c-School Layout</members>
+    <members>Student__c-Student Layout</members>
+    <members>Teacher_Student__c-Teacher Student Layout</members>
+    <members>Teacher__c-Teacher Layout</members>
+  </types>
+  <types>
+    <name>CustomObject</name>
+    <members>Category__c</members>
+    <members>Discipline_Student__c</members>
+    <members>Discipline__c</members>
+    <members>Grade__c</members>
+    <members>Level__c</members>
+    <members>Profile__c</members>
+    <members>School__c</members>
+    <members>Student__c</members>
+    <members>Teacher_Student__c</members>
+    <members>Teacher__c</members>
+    <members>Trigger_Settings__c</members>
+  </types>
+  <types>
+    <name>CustomField</name>
+    <members>Category__c.School__c</members>
+    <members>Category__c.Teacher_ID__c</members>
+    <members>Discipline_Student__c.Discipline__c</members>
+    <members>Discipline_Student__c.Student__c</members>
+    <members>Discipline__c.School__c</members>
+    <members>Grade__c.Student__c</members>
+    <members>Grade__c.Value__c</members>
+    <members>Level__c.School__c</members>
+    <members>Profile__c.Age__c</members>
+    <members>Profile__c.Born_date__c</members>
+    <members>Profile__c.Discription__c</members>
+    <members>Profile__c.Email__c</members>
+    <members>Profile__c.Phone__c</members>
+    <members>Profile__c.Profile_Picture__c</members>
+    <members>Profile__c.Student_ID__c</members>
+    <members>Profile__c.Teacher_ID__c</members>
+    <members>School__c.Address__c</members>
+    <members>School__c.School_Type__c</members>
+    <members>Student__c.Category_ID__c</members>
+    <members>Student__c.First_Name__c</members>
+    <members>Student__c.Last_Name__c</members>
+    <members>Student__c.Profile_ID__c</members>
+    <members>Student__c.School__c</members>
+    <members>Student__c.Second_Name__c</members>
+    <members>Student__c.Teacher__c</members>
+    <members>Teacher_Student__c.Student_ID__c</members>
+    <members>Teacher_Student__c.Teacher_ID__c</members>
+    <members>Teacher__c.Discipline_ID__c</members>
+    <members>Teacher__c.First_Name__c</members>
+    <members>Teacher__c.Last_Name__c</members>
+    <members>Teacher__c.Profile_ID__c</members>
+    <members>Teacher__c.School__c</members>
+    <members>Teacher__c.Second_Name__c</members>
+    <members>Teacher__c.Title__c</members>
+  </types>
+  <types>
+    <name>Profile</name>
+    <members>Admin</members>
+    <members>Custom%3A Marketing Profile</members>
+    <members>Custom%3A Sales Profile</members>
+    <members>Custom%3A Support Profile</members>
+  </types>
+  <types>
+    <name>CustomTab</name>
+    <members>Discipline__c</members>
+    <members>School__c</members>
+  </types>
+  <types>
+    <name>ApexTrigger</name>
+    <members>StudentTrigger</members>
+  </types>
+  <version>43.0</version>
+</Package>

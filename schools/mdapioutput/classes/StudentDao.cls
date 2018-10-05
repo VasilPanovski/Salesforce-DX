@@ -12,4 +12,12 @@ public class StudentDao {
 
         return student;
     }
+
+    // get all students in specific school. 
+    // We can save the school Id we are in into the browser local storage
+    public static findAll(ID schoolId) {
+        List<Student__c>  students = [SELECT ID, Name FROM Student__c WHERE School__c == schoolId];
+
+        return students;
+    }
 }

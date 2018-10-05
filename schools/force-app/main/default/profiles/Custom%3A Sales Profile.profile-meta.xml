@@ -5,11 +5,31 @@
         <enabled>false</enabled>
     </classAccesses>
     <classAccesses>
+        <apexClass>InvalidAccountNameException</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>SchoolAccount</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
         <apexClass>SchoolController</apexClass>
         <enabled>false</enabled>
     </classAccesses>
     <classAccesses>
+        <apexClass>Student</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>StudentDao</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
         <apexClass>Teacher</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>TeacherDao</apexClass>
         <enabled>false</enabled>
     </classAccesses>
     <classAccesses>
@@ -24,6 +44,11 @@
     <fieldPermissions>
         <editable>true</editable>
         <field>Category__c.Teacher_ID__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Level__c.School__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
@@ -122,6 +147,9 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>Grade__c-Grade Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Level__c-Level Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Profile__c-Profile Layout</layout>

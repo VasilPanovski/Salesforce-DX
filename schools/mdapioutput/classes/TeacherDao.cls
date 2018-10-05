@@ -13,9 +13,9 @@ public class TeacherDao {
         return teacher;
     }
 
-    public static Teacher__c getById(Id teacherId) {
+    public static Teacher__c getById(ID teacherId) {
         Teacher__c teacher = [
-                                SELECT Id, Name, Title__c, Profile_ID__c
+                                SELECT ID, Name, Title__c, Profile_ID__c
                                   FROM Teacher__c
                                  WHERE Id = :teacherId
                               ORDER BY Name
@@ -24,5 +24,11 @@ public class TeacherDao {
         return teacher;
     }
 
-    
+    // get all teachers in specific school. 
+    // We can save the school Id we are in into the browser local storage
+    public static findAll(ID schoolId) {
+        List<Teacher__c> teachers = [SELECT ID, Name FROM Teacher__c WHERE School__c == schoolId];
+
+        return teachers;
+    }
 }

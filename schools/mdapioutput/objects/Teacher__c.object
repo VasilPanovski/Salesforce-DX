@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <actionOverrides>
+        <actionName>Accept</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>CancelEdit</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>Clone</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>Delete</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>Edit</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>List</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>New</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>SaveEdit</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>Tab</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>View</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <allowInChatterGroups>false</allowInChatterGroups>
+    <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
+    <deploymentStatus>Deployed</deploymentStatus>
+    <enableActivities>false</enableActivities>
+    <enableBulkApi>true</enableBulkApi>
+    <enableChangeDataCapture>false</enableChangeDataCapture>
+    <enableFeeds>false</enableFeeds>
+    <enableHistory>false</enableHistory>
+    <enableReports>false</enableReports>
+    <enableSearch>true</enableSearch>
+    <enableSharing>true</enableSharing>
+    <enableStreamingApi>true</enableStreamingApi>
+    <label>Teacher</label>
+    <nameField>
+        <label>Teacher Name</label>
+        <type>Text</type>
+    </nameField>
+    <pluralLabel>Teachers</pluralLabel>
+    <searchLayouts/>
+    <sharingModel>ControlledByParent</sharingModel>
+    <visibility>Public</visibility>
+    <fields>
+        <fullName>Discipline_ID__c</fullName>
+        <deleteConstraint>Restrict</deleteConstraint>
+        <externalId>false</externalId>
+        <label>Discipline ID</label>
+        <referenceTo>Discipline__c</referenceTo>
+        <relationshipLabel>Teachers (Discipline ID)</relationshipLabel>
+        <relationshipName>Teachers1</relationshipName>
+        <required>true</required>
+        <trackTrending>false</trackTrending>
+        <type>Lookup</type>
+    </fields>
+    <fields>
+        <fullName>First_Name__c</fullName>
+        <externalId>false</externalId>
+        <label>First Name</label>
+        <length>50</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Last_Name__c</fullName>
+        <externalId>false</externalId>
+        <label>Last Name</label>
+        <length>50</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Profile_ID__c</fullName>
+        <deleteConstraint>SetNull</deleteConstraint>
+        <externalId>false</externalId>
+        <label>Profile_ID</label>
+        <referenceTo>Profile__c</referenceTo>
+        <relationshipLabel>Teachers</relationshipLabel>
+        <relationshipName>Teachers</relationshipName>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Lookup</type>
+    </fields>
+    <fields>
+        <fullName>School__c</fullName>
+        <externalId>false</externalId>
+        <label>School</label>
+        <referenceTo>School__c</referenceTo>
+        <relationshipLabel>Teachers</relationshipLabel>
+        <relationshipName>Teachers1</relationshipName>
+        <relationshipOrder>0</relationshipOrder>
+        <reparentableMasterDetail>false</reparentableMasterDetail>
+        <trackTrending>false</trackTrending>
+        <type>MasterDetail</type>
+        <writeRequiresMasterRead>false</writeRequiresMasterRead>
+    </fields>
+    <fields>
+        <fullName>Second_Name__c</fullName>
+        <externalId>false</externalId>
+        <label>Second Name</label>
+        <length>50</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Title__c</fullName>
+        <externalId>false</externalId>
+        <label>Title</label>
+        <required>true</required>
+        <trackTrending>false</trackTrending>
+        <type>Picklist</type>
+        <valueSet>
+            <restricted>true</restricted>
+            <valueSetDefinition>
+                <sorted>false</sorted>
+                <value>
+                    <fullName>Admission Director</fullName>
+                    <default>false</default>
+                    <label>Admission Director</label>
+                </value>
+                <value>
+                    <fullName>Athletic Coach</fullName>
+                    <default>false</default>
+                    <label>Athletic Coach</label>
+                </value>
+                <value>
+                    <fullName>Autism/Behavior Specialist</fullName>
+                    <default>false</default>
+                    <label>Autism/Behavior Specialist</label>
+                </value>
+                <value>
+                    <fullName>Communication Specialist</fullName>
+                    <default>false</default>
+                    <label>Communication Specialist</label>
+                </value>
+                <value>
+                    <fullName>Librarian</fullName>
+                    <default>false</default>
+                    <label>Librarian</label>
+                </value>
+                <value>
+                    <fullName>Music Teacher</fullName>
+                    <default>false</default>
+                    <label>Music Teacher</label>
+                </value>
+                <value>
+                    <fullName>Psychologist</fullName>
+                    <default>false</default>
+                    <label>Psychologist</label>
+                </value>
+                <value>
+                    <fullName>Science Teacher</fullName>
+                    <default>false</default>
+                    <label>Science Teacher</label>
+                </value>
+                <value>
+                    <fullName>Social Worker</fullName>
+                    <default>false</default>
+                    <label>Social Worker</label>
+                </value>
+            </valueSetDefinition>
+        </valueSet>
+    </fields>
+</CustomObject>

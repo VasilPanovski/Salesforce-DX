@@ -16,19 +16,19 @@
                 <label>Preschool</label>
             </value>
             <value>
-                <fullName>Elementary school</fullName>
+                <fullName>Elementary</fullName>
                 <default>false</default>
-                <label>Elementary school</label>
+                <label>Elementary</label>
             </value>
             <value>
-                <fullName>Middle school</fullName>
+                <fullName>Middle</fullName>
                 <default>false</default>
-                <label>Middle school</label>
+                <label>Middle</label>
             </value>
             <value>
-                <fullName>High school</fullName>
+                <fullName>High</fullName>
                 <default>false</default>
-                <label>High school</label>
+                <label>High</label>
             </value>
             <value>
                 <fullName>College</fullName>

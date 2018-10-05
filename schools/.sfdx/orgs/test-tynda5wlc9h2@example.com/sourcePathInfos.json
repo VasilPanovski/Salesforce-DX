@@ -1,0 +1,2093 @@
+[
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1538722938452,
+            "changeTime": 1538722938452,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1538722938452,
+            "changeTime": 1538722938452,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1538739934404,
+            "changeTime": 1538739934404,
+            "contentHash": "47eb4138ad8e21f837e19be7f43401298eaf6432",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1538722938454,
+            "changeTime": 1538722938454,
+            "contentHash": "dbb7195e9ac98793f76787431fd648e56c266751",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\aura\\AllSchoolsApp",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\aura\\AllSchoolsApp",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1538722938453,
+            "changeTime": 1538722938453,
+            "contentHash": "10fa16f2d5138e3ebdb9f6115e28c54f0561db08",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\aura\\AllSchoolsApp\\AllSchoolsApp.app",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\aura\\AllSchoolsApp\\AllSchoolsApp.app",
+            "isDirectory": false,
+            "size": 83,
+            "modifiedTime": 1538722938453,
+            "changeTime": 1538722938453,
+            "contentHash": "22538b3c6c97d0003b1efc115cde52f160ceff68",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\aura\\AllSchoolsApp\\AllSchoolsApp.app-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\aura\\AllSchoolsApp\\AllSchoolsApp.app-meta.xml",
+            "isDirectory": false,
+            "size": 233,
+            "modifiedTime": 1538722938454,
+            "changeTime": 1538722938454,
+            "contentHash": "78d8681541bc136ce98816dfc3b101cc2e3de47d",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\aura\\SchoolList",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\aura\\SchoolList",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1538722938467,
+            "changeTime": 1538722938467,
+            "contentHash": "72b49984df044d15b8749b3d18aa2a00672a4cbc",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\aura\\SchoolList\\SchoolList.auradoc",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\aura\\SchoolList\\SchoolList.auradoc",
+            "isDirectory": false,
+            "size": 214,
+            "modifiedTime": 1538722938455,
+            "changeTime": 1538722938455,
+            "contentHash": "407a14e54b2a31f34bdc3d6864f898b846cd6f14",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\aura\\SchoolList\\SchoolList.cmp",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\aura\\SchoolList\\SchoolList.cmp",
+            "isDirectory": false,
+            "size": 1043,
+            "modifiedTime": 1538722938456,
+            "changeTime": 1538722938456,
+            "contentHash": "e770479737abc30ba420570a1d4c0ce85a89043e",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\aura\\SchoolList\\SchoolList.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\aura\\SchoolList\\SchoolList.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 247,
+            "modifiedTime": 1538722938457,
+            "changeTime": 1538722938457,
+            "contentHash": "9d163b2a69731a88799ef080442c2876d774b656",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\aura\\SchoolList\\SchoolList.css",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\aura\\SchoolList\\SchoolList.css",
+            "isDirectory": false,
+            "size": 12,
+            "modifiedTime": 1538722938460,
+            "changeTime": 1538722938460,
+            "contentHash": "62fce833b8cbf54a137353694e5e7fb5183a3aa5",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\aura\\SchoolList\\SchoolList.design",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\aura\\SchoolList\\SchoolList.design",
+            "isDirectory": false,
+            "size": 42,
+            "modifiedTime": 1538722938461,
+            "changeTime": 1538722938461,
+            "contentHash": "6ea7d49903f517fcd762a13181f931479bb35c24",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\aura\\SchoolList\\SchoolList.svg",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\aura\\SchoolList\\SchoolList.svg",
+            "isDirectory": false,
+            "size": 667,
+            "modifiedTime": 1538722938462,
+            "changeTime": 1538722938462,
+            "contentHash": "fe7fd10b3d5c910463a4cbaaa998b5e75bd6ca8a",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\aura\\SchoolList\\SchoolListController.js",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\aura\\SchoolList\\SchoolListController.js",
+            "isDirectory": false,
+            "size": 132,
+            "modifiedTime": 1538722938463,
+            "changeTime": 1538722938463,
+            "contentHash": "3ac4f56c186017e2705769ebe3763fc6ee65df4c",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\aura\\SchoolList\\SchoolListHelper.js",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\aura\\SchoolList\\SchoolListHelper.js",
+            "isDirectory": false,
+            "size": 532,
+            "modifiedTime": 1538722938465,
+            "changeTime": 1538722938465,
+            "contentHash": "bb37b151ebf2a6cb7a8c043e3064e811da7a26b0",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\aura\\SchoolList\\SchoolListRenderer.js",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\aura\\SchoolList\\SchoolListRenderer.js",
+            "isDirectory": false,
+            "size": 55,
+            "modifiedTime": 1538722938467,
+            "changeTime": 1538722938467,
+            "contentHash": "3ef474273bcb41f3564687a65b0357460ae004ed",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\classes",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1538740090185,
+            "changeTime": 1538740090185,
+            "contentHash": "8b0730e46bddec598add4e02ce82fa51680903e1",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\classes\\controllers",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\classes\\controllers",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1538739405634,
+            "changeTime": 1538739405634,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\classes\\dao",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\classes\\dao",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1538739092410,
+            "changeTime": 1538739092410,
+            "contentHash": "ff18f72d18332db95b82ddf54b7f268d6cdb62f4",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\classes\\dao\\StudentDao.cls",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\classes\\dao\\StudentDao.cls",
+            "isDirectory": false,
+            "size": 804,
+            "modifiedTime": 1538740542410,
+            "changeTime": 1538740542410,
+            "contentHash": "9b6e5457a8c9144c107f4aafc6c0b808253df94f",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\classes\\dao\\StudentDao.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\classes\\dao\\StudentDao.cls-meta.xml",
+            "isDirectory": false,
+            "size": 193,
+            "modifiedTime": 1538739092411,
+            "changeTime": 1538739092411,
+            "contentHash": "9c096e5dd371a2379af4c55ba5b7aaa27d44f194",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\classes\\dao\\TeacherDao.cls",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\classes\\dao\\TeacherDao.cls",
+            "isDirectory": false,
+            "size": 1184,
+            "modifiedTime": 1538740539145,
+            "changeTime": 1538740539145,
+            "contentHash": "66e782a5c0bb442c5b82ee6d0cc90e451e33cc06",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\classes\\dao\\TeacherDao.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\classes\\dao\\TeacherDao.cls-meta.xml",
+            "isDirectory": false,
+            "size": 193,
+            "modifiedTime": 1538739092476,
+            "changeTime": 1538739092477,
+            "contentHash": "d031e24dc58657f8417f12fbfa0802bb431c85dc",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\classes\\entities",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\classes\\entities",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1538739309612,
+            "changeTime": 1538739309612,
+            "contentHash": "36d994df58e12b5fdb5c225cdfa926e74fb85cbb",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\classes\\entities\\SchoolAccount.cls",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\classes\\entities\\SchoolAccount.cls",
+            "isDirectory": false,
+            "size": 1684,
+            "modifiedTime": 1538739309612,
+            "changeTime": 1538739309614,
+            "contentHash": "b7473d72cac49976c9a29739d46075867c50c603",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\classes\\entities\\SchoolAccount.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\classes\\entities\\SchoolAccount.cls-meta.xml",
+            "isDirectory": false,
+            "size": 196,
+            "modifiedTime": 1538739309612,
+            "changeTime": 1538739309614,
+            "contentHash": "d6967af423afaa3726abda5546874083952677e7",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\classes\\entities\\SchoolController.cls",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\classes\\entities\\SchoolController.cls",
+            "isDirectory": false,
+            "size": 386,
+            "modifiedTime": 1538739309612,
+            "changeTime": 1538739309614,
+            "contentHash": "a807aba2d0855e50e3d556e7c21c3f9382c61d4c",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\classes\\entities\\SchoolController.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\classes\\entities\\SchoolController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 199,
+            "modifiedTime": 1538739309612,
+            "changeTime": 1538739309614,
+            "contentHash": "8b9ed1a3c48775b4d7098d628c1e7733268230f9",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\classes\\entities\\Student.cls",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\classes\\entities\\Student.cls",
+            "isDirectory": false,
+            "size": 958,
+            "modifiedTime": 1538739309614,
+            "changeTime": 1538739309615,
+            "contentHash": "4240e0aeb8623c24c564f44e5535ac88d4f947ec",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\classes\\entities\\Student.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\classes\\entities\\Student.cls-meta.xml",
+            "isDirectory": false,
+            "size": 190,
+            "modifiedTime": 1538739309613,
+            "changeTime": 1538739309615,
+            "contentHash": "39a3425bbdb1eab00b9ccf39c1bf1515d8a55f39",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\classes\\entities\\Teacher.cls",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\classes\\entities\\Teacher.cls",
+            "isDirectory": false,
+            "size": 413,
+            "modifiedTime": 1538739309613,
+            "changeTime": 1538739309614,
+            "contentHash": "c4286b83d2afa682cc1b1f93ecfc618e2a86a73b",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\classes\\entities\\Teacher.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\classes\\entities\\Teacher.cls-meta.xml",
+            "isDirectory": false,
+            "size": 190,
+            "modifiedTime": 1538739309613,
+            "changeTime": 1538739309615,
+            "contentHash": "ceb57d34d5f46de51847d426db54f55babdfb4d7",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\classes\\enums",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\classes\\enums",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1538734643444,
+            "changeTime": 1538734643444,
+            "contentHash": "9fc9085c23ba941f8b6e26cae2e67bb4f96a3519",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\classes\\enums\\SchoolType.cls",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\classes\\enums\\SchoolType.cls",
+            "isDirectory": false,
+            "size": 92,
+            "modifiedTime": 1538735749678,
+            "changeTime": 1538735749678,
+            "contentHash": "1808be996ffc252394ede1153b9bac2c49f8da0b",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\classes\\enums\\SchoolType.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\classes\\enums\\SchoolType.cls-meta.xml",
+            "isDirectory": false,
+            "size": 188,
+            "modifiedTime": 1538734643445,
+            "changeTime": 1538734643445,
+            "contentHash": "8544811b42a4d4d09af3bb4438f3ff1c008a6a0b",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\classes\\exceptions",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\classes\\exceptions",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1538739284811,
+            "changeTime": 1538739284811,
+            "contentHash": "aa1ada16e56cf2510f45e0b545205fc622c44f84",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\classes\\exceptions\\InvalidAccountNameException.cls",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\classes\\exceptions\\InvalidAccountNameException.cls",
+            "isDirectory": false,
+            "size": 164,
+            "modifiedTime": 1538739284811,
+            "changeTime": 1538739284813,
+            "contentHash": "0e3691a1d21052baf16a8d339151568df56c2bf2",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\classes\\exceptions\\InvalidAccountNameException.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\classes\\exceptions\\InvalidAccountNameException.cls-meta.xml",
+            "isDirectory": false,
+            "size": 210,
+            "modifiedTime": 1538739284811,
+            "changeTime": 1538739284813,
+            "contentHash": "2387a79f177db5f6bf48ce65ad0af2c64cb7b518",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\classes\\helpers",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\classes\\helpers",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1538740071555,
+            "changeTime": 1538740071555,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\classes\\hendlers",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\classes\\hendlers",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1538740090185,
+            "changeTime": 1538740090185,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\classes\\interfaces",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\classes\\interfaces",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1538728959875,
+            "changeTime": 1538728959875,
+            "contentHash": "b01084745dccb32870e66796767ee2239a852524",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\classes\\interfaces\\ITrigger.cls",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\classes\\interfaces\\ITrigger.cls",
+            "isDirectory": false,
+            "size": 831,
+            "modifiedTime": 1538728959876,
+            "changeTime": 1538728959877,
+            "contentHash": "9999e354c7fbcdcb9731b6fd3e61d9ac6c416da7",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\classes\\interfaces\\ITrigger.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\classes\\interfaces\\ITrigger.cls-meta.xml",
+            "isDirectory": false,
+            "size": 191,
+            "modifiedTime": 1538728959876,
+            "changeTime": 1538728959877,
+            "contentHash": "deca5499af736a0cf8cfec64691fe6aaab6484f3",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\classes\\utils",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\classes\\utils",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1538739895443,
+            "changeTime": 1538739895443,
+            "contentHash": "1b81558ce4830d68fcf955fc66cd68e2cf41c854",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\classes\\utils\\TestObjectsCreator.cls",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\classes\\utils\\TestObjectsCreator.cls",
+            "isDirectory": false,
+            "size": 1543,
+            "modifiedTime": 1538739478040,
+            "changeTime": 1538739478041,
+            "contentHash": "b3986574098ff6a0dc289a2c738d33e018949536",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\classes\\utils\\TestObjectsCreator.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\classes\\utils\\TestObjectsCreator.cls-meta.xml",
+            "isDirectory": false,
+            "size": 179,
+            "modifiedTime": 1538739477834,
+            "changeTime": 1538739477835,
+            "contentHash": "5dba4d8d1d7ec0e924d941c2ab6e8f8963f526c1",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\classes\\utils\\TriggerDispatcher.cls",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\classes\\utils\\TriggerDispatcher.cls",
+            "isDirectory": false,
+            "size": 1391,
+            "modifiedTime": 1538739895444,
+            "changeTime": 1538739895445,
+            "contentHash": "7eb6db581ddd671cc8e892b0d15f1f071af05deb",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\classes\\utils\\TriggerDispatcher.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\classes\\utils\\TriggerDispatcher.cls-meta.xml",
+            "isDirectory": false,
+            "size": 200,
+            "modifiedTime": 1538739895444,
+            "changeTime": 1538739895445,
+            "contentHash": "68e8dd54948a2c5f90153e2dd6bc52030e47c5eb",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\flexipages",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\flexipages",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1538722938487,
+            "changeTime": 1538722938487,
+            "contentHash": "f0e66fff03ef626e6bcb6b14d4a15bf191c0e9b7",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\flexipages\\Schools.flexipage-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\flexipages\\Schools.flexipage-meta.xml",
+            "isDirectory": false,
+            "size": 5186,
+            "modifiedTime": 1538722938488,
+            "changeTime": 1538722938488,
+            "contentHash": "320c23bee58f1cf36aa18a9ec55331374a402c6b",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\layouts",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1538741520680,
+            "changeTime": 1538741520680,
+            "contentHash": "da20a2b1eac8ce0a0e2666a638ea0f0aa7653847"
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\layouts\\Category__c-Category Layout.layout-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\layouts\\Category__c-Category Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 3080,
+            "modifiedTime": 1538722938489,
+            "changeTime": 1538722938489,
+            "contentHash": "8f1b937b6a7ba64b404588d05336a19a75c073cc",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\layouts\\Discipline_Student__c-Discipline Student Layout.layout-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\layouts\\Discipline_Student__c-Discipline Student Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 2225,
+            "modifiedTime": 1538722938490,
+            "changeTime": 1538722938490,
+            "contentHash": "5712431fd05cbbc558b722d92799618d1b0c174b",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\layouts\\Discipline__c-Discipline Layout.layout-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\layouts\\Discipline__c-Discipline Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 3088,
+            "modifiedTime": 1538722938491,
+            "changeTime": 1538722938491,
+            "contentHash": "b7d991b662ea5629f43cdaef7cb0e81f46899d9f",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\layouts\\Grade__c-Grade Layout.layout-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\layouts\\Grade__c-Grade Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 2220,
+            "modifiedTime": 1538722938492,
+            "changeTime": 1538722938492,
+            "contentHash": "84ed16f0e4775050fd3518a0d5dd7240cf5377e0",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\layouts\\Profile__c-Profile Layout.layout-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\layouts\\Profile__c-Profile Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 3822,
+            "modifiedTime": 1538722938493,
+            "changeTime": 1538722938493,
+            "contentHash": "0a5d1694400f9e43d6953fa95a7413ca644b26bc",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\layouts\\School__c-School Layout.layout-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\layouts\\School__c-School Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 2296,
+            "modifiedTime": 1538722938494,
+            "changeTime": 1538722938494,
+            "contentHash": "8a82f4f5ca653f11efc706332a426b6560a2a188",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\layouts\\Student__c-Student Layout.layout-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\layouts\\Student__c-Student Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 3255,
+            "modifiedTime": 1538722938495,
+            "changeTime": 1538722938495,
+            "contentHash": "883d014ded1c015e4d7c28fb44a46df2144ecb1e",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\layouts\\Teacher_Student__c-Teacher Student Layout.layout-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\layouts\\Teacher_Student__c-Teacher Student Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 2135,
+            "modifiedTime": 1538722938496,
+            "changeTime": 1538722938496,
+            "contentHash": "3584399f866ae333cd1bccdac6583f7d877a75d9",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\layouts\\Teacher__c-Teacher Layout.layout-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\layouts\\Teacher__c-Teacher Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 3117,
+            "modifiedTime": 1538722938497,
+            "changeTime": 1538722938497,
+            "contentHash": "97bb77873b4159c91da904b0a57823292d2a0818",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1538741520664,
+            "changeTime": 1538741520664,
+            "contentHash": "519e3543ee76b7ffc9fb06ffdb0c08554093f5ed"
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Category__c",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Category__c",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1538722938498,
+            "changeTime": 1538722938498,
+            "contentHash": "f051dbfb70cd6d5f4195161ec60a3ff16a97013d",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Category__c\\Category__c.object-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Category__c\\Category__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 2193,
+            "modifiedTime": 1538722938498,
+            "changeTime": 1538722938498,
+            "contentHash": "fe3f9c3879a38200907f8a3a8b89e1c65c00f659",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Category__c\\fields",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Category__c\\fields",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1538722938500,
+            "changeTime": 1538722938500,
+            "contentHash": "3d592e10ce10d074522b08cd4d6ffa64d629fe9b",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Category__c\\fields\\School__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Category__c\\fields\\School__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 653,
+            "modifiedTime": 1538722938499,
+            "changeTime": 1538722938499,
+            "contentHash": "2febcf0db27f6f40308b4ab106b8150d1aa89ae4",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Category__c\\fields\\Teacher_ID__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Category__c\\fields\\Teacher_ID__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 566,
+            "modifiedTime": 1538722938500,
+            "changeTime": 1538722938500,
+            "contentHash": "6e01b2ecf1ba79c4d1c62c46737021923a24f4c1",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Discipline_Student__c",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Discipline_Student__c",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1538722938502,
+            "changeTime": 1538722938502,
+            "contentHash": "fabc9778a7c6d76c6c0651542dfd79c61f684343",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Discipline_Student__c\\Discipline_Student__c.object-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Discipline_Student__c\\Discipline_Student__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 2236,
+            "modifiedTime": 1538722938501,
+            "changeTime": 1538722938501,
+            "contentHash": "8356fa0e351dd2c3b63403393e6e23af7eb626f6",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Discipline_Student__c\\fields",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Discipline_Student__c\\fields",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1538722938503,
+            "changeTime": 1538722938503,
+            "contentHash": "f9946a3c12c90386fdc4d99d13fdf60d83dd9bd5",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Discipline_Student__c\\fields\\Discipline__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Discipline_Student__c\\fields\\Discipline__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 645,
+            "modifiedTime": 1538722938503,
+            "changeTime": 1538722938503,
+            "contentHash": "4fe41d7b01ad168409322e90444525c196a15f3f",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Discipline_Student__c\\fields\\Student__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Discipline_Student__c\\fields\\Student__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 636,
+            "modifiedTime": 1538722938504,
+            "changeTime": 1538722938504,
+            "contentHash": "9ba111e4e247390ad9ceee76092c2e8fa8b5a1f9",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Discipline__c",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Discipline__c",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1538722938505,
+            "changeTime": 1538722938505,
+            "contentHash": "de0d13545c4cf5cc0dbe81059aa52332a8a0f599",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Discipline__c\\Discipline__c.object-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Discipline__c\\Discipline__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 2153,
+            "modifiedTime": 1538722938505,
+            "changeTime": 1538722938505,
+            "contentHash": "c127cf8e8292e52eba3b09dd63a813f399c88721",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Discipline__c\\fields",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Discipline__c\\fields",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1538722938505,
+            "changeTime": 1538722938505,
+            "contentHash": "a1b2f06036a82e0b4c662ad1e5d9ca61173f6d13",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Discipline__c\\fields\\School__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Discipline__c\\fields\\School__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 615,
+            "modifiedTime": 1538722938506,
+            "changeTime": 1538722938506,
+            "contentHash": "af932afa66d8d48bca4e72afa7515b685b434b50",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Grade__c",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Grade__c",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1538722938508,
+            "changeTime": 1538722938508,
+            "contentHash": "a884b07df1f99a218d8f9bd89463844cab048af0",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Grade__c\\fields",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Grade__c\\fields",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1538722938509,
+            "changeTime": 1538722938509,
+            "contentHash": "ec4d9180ab5458c1621e480ecc2791f04bd8e6fe",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Grade__c\\fields\\Student__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Grade__c\\fields\\Student__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 647,
+            "modifiedTime": 1538722938509,
+            "changeTime": 1538722938509,
+            "contentHash": "15a61c3f9c7c8d27b7f5f5e6e44f3784c711c8be",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Grade__c\\fields\\Value__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Grade__c\\fields\\Value__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 434,
+            "modifiedTime": 1538722938510,
+            "changeTime": 1538722938510,
+            "contentHash": "08e1d79151a566cd0652a7d379aba8171422e8d5",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Grade__c\\Grade__c.object-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Grade__c\\Grade__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 2239,
+            "modifiedTime": 1538722938507,
+            "changeTime": 1538722938507,
+            "contentHash": "e0884c00a049454751ad4caf96c217b857e84215",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Profile__c",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Profile__c",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1538722938512,
+            "changeTime": 1538722938512,
+            "contentHash": "2be57d9bb76e9df3102b6735da0918b6c6fa5224",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Profile__c\\fields",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Profile__c\\fields",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1538722938519,
+            "changeTime": 1538722938519,
+            "contentHash": "5b750085924b98e89a48224ccdd33f112f866350",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Profile__c\\fields\\Age__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Profile__c\\fields\\Age__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 431,
+            "modifiedTime": 1538722938512,
+            "changeTime": 1538722938512,
+            "contentHash": "80b2fa11f7bf2f6a9f3021692df6376073d32233",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Profile__c\\fields\\Born_date__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Profile__c\\fields\\Born_date__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 361,
+            "modifiedTime": 1538722938513,
+            "changeTime": 1538722938513,
+            "contentHash": "705d79cd7649cd750099253cc22ac07045ca646c",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Profile__c\\fields\\Discription__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Profile__c\\fields\\Discription__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 368,
+            "modifiedTime": 1538722938515,
+            "changeTime": 1538722938515,
+            "contentHash": "3747a247367b43cb9e3f446b04449b89c0b121e2",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Profile__c\\fields\\Email__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Profile__c\\fields\\Email__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 382,
+            "modifiedTime": 1538722938516,
+            "changeTime": 1538722938516,
+            "contentHash": "066e63d392f48ae8e7b079939e970d1320d3ce5b",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Profile__c\\fields\\Phone__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Profile__c\\fields\\Phone__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 354,
+            "modifiedTime": 1538722938517,
+            "changeTime": 1538722938517,
+            "contentHash": "bc4de281376d97ee61d59b49d00722dbccfbf981",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Profile__c\\fields\\Profile_Picture__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Profile__c\\fields\\Profile_Picture__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 406,
+            "modifiedTime": 1538722938518,
+            "changeTime": 1538722938518,
+            "contentHash": "57baee92d238e846edbcfb895ffa44813b7cbdbb",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Profile__c\\fields\\Student_ID__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Profile__c\\fields\\Student_ID__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 562,
+            "modifiedTime": 1538722938519,
+            "changeTime": 1538722938519,
+            "contentHash": "0a0f4439da9a90583226a6de68a29b48e2952c77",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Profile__c\\fields\\Teacher_ID__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Profile__c\\fields\\Teacher_ID__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 562,
+            "modifiedTime": 1538722938520,
+            "changeTime": 1538722938520,
+            "contentHash": "c7f7d28344e9f1fe14ca459f9297a35f3cc39932",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Profile__c\\Profile__c.object-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Profile__c\\Profile__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 2180,
+            "modifiedTime": 1538722938511,
+            "changeTime": 1538722938511,
+            "contentHash": "a22aa15155cc15330bc6d1eaac13b7d002990ed8",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\School__c",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\School__c",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1538722938521,
+            "changeTime": 1538722938521,
+            "contentHash": "942b1ab1b36c9d5a5db3aa20f4845c6804238eb7",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\School__c\\fields",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\School__c\\fields",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1538722938523,
+            "changeTime": 1538722938523,
+            "contentHash": "1241f3e8d009bd2be087cca175dbd0185c6ee5fb",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\School__c\\fields\\Address__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\School__c\\fields\\Address__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 370,
+            "modifiedTime": 1538722938522,
+            "changeTime": 1538722938522,
+            "contentHash": "b1a1c0644ef20b21abfeb39b1e0e3f48e577548d",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\School__c\\fields\\School_Type__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\School__c\\fields\\School_Type__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1314,
+            "modifiedTime": 1538741520658,
+            "changeTime": 1538741520658,
+            "contentHash": "7c5b6dd653d609609b96b0e7be399e88a2c28724"
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\School__c\\School__c.object-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\School__c\\School__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 2370,
+            "modifiedTime": 1538722938521,
+            "changeTime": 1538722938521,
+            "contentHash": "519ad03e31b856e94d2d98a3eb582a639fb80b9c",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Student__c",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Student__c",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1538722938525,
+            "changeTime": 1538722938525,
+            "contentHash": "fe5a26d8bad1d8d50b50e684d517fb3dd547f306",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Student__c\\fields",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Student__c\\fields",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1538722938531,
+            "changeTime": 1538722938531,
+            "contentHash": "cca28723af80a84af521c1366c392aa620dc132c",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Student__c\\fields\\Category_ID__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Student__c\\fields\\Category_ID__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 525,
+            "modifiedTime": 1538722938525,
+            "changeTime": 1538722938525,
+            "contentHash": "3a62fb54b1250868f34b96c22a70491d57f888e6",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Student__c\\fields\\First_Name__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Student__c\\fields\\First_Name__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 376,
+            "modifiedTime": 1538722938527,
+            "changeTime": 1538722938527,
+            "contentHash": "471a690c29dfec1116bab3540498ed78585ae76c",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Student__c\\fields\\Last_Name__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Student__c\\fields\\Last_Name__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 374,
+            "modifiedTime": 1538722938528,
+            "changeTime": 1538722938528,
+            "contentHash": "95f3178a613f0c4d3b659b3ab6e3c2400cbe9630",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Student__c\\fields\\Profile_ID__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Student__c\\fields\\Profile_ID__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 522,
+            "modifiedTime": 1538722938528,
+            "changeTime": 1538722938528,
+            "contentHash": "a6cec83ae92a59dcd716e458d3e8af037cfee79d",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Student__c\\fields\\School__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Student__c\\fields\\School__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 609,
+            "modifiedTime": 1538722938529,
+            "changeTime": 1538722938529,
+            "contentHash": "80eb6a0c625951657a20b10b6bafd4a2edf8a861",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Student__c\\fields\\Second_Name__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Student__c\\fields\\Second_Name__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 378,
+            "modifiedTime": 1538722938530,
+            "changeTime": 1538722938530,
+            "contentHash": "a96473dd3c85d584fbae0de77cba11c4915211a9",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Student__c\\fields\\Teacher__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Student__c\\fields\\Teacher__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 516,
+            "modifiedTime": 1538722938531,
+            "changeTime": 1538722938531,
+            "contentHash": "505cd8764bcb6009e1d06d44fb85fc71652b120c",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Student__c\\Student__c.object-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Student__c\\Student__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 2148,
+            "modifiedTime": 1538722938524,
+            "changeTime": 1538722938524,
+            "contentHash": "e43d74370619cb896155c7dca5d99949ec445f08",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Teacher_Student__c",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Teacher_Student__c",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1538722938533,
+            "changeTime": 1538722938533,
+            "contentHash": "395a1b178d75e37756471f2f21c8559373ed1cf0",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Teacher_Student__c\\fields",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Teacher_Student__c\\fields",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1538722938534,
+            "changeTime": 1538722938534,
+            "contentHash": "0a6294aa6f721df9d1322ebb0f2b214fdd89a711",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Teacher_Student__c\\fields\\Student_ID__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Teacher_Student__c\\fields\\Student_ID__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 538,
+            "modifiedTime": 1538722938534,
+            "changeTime": 1538722938534,
+            "contentHash": "5e7f57b65e4365f8bb8b96f841218ef547160462",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Teacher_Student__c\\fields\\Teacher_ID__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Teacher_Student__c\\fields\\Teacher_ID__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 538,
+            "modifiedTime": 1538722938534,
+            "changeTime": 1538722938534,
+            "contentHash": "5fe5d3cab95bd68e1230a1f4f96a029a7ca84165",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Teacher_Student__c\\Teacher_Student__c.object-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Teacher_Student__c\\Teacher_Student__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 2217,
+            "modifiedTime": 1538722938532,
+            "changeTime": 1538722938532,
+            "contentHash": "faeb4c151b0af0dce67e3541629ddfcc2ccd731c",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Teacher__c",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Teacher__c",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1538722938536,
+            "changeTime": 1538722938536,
+            "contentHash": "44499fb227d436d64ff334aeffddfff03b67c8d6",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Teacher__c\\fields",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Teacher__c\\fields",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1538722938542,
+            "changeTime": 1538722938542,
+            "contentHash": "dc3277234b1e7a5d324791fe92ee271aa72f710d",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Teacher__c\\fields\\Discipline_ID__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Teacher__c\\fields\\Discipline_ID__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 548,
+            "modifiedTime": 1538722938537,
+            "changeTime": 1538722938537,
+            "contentHash": "9a0daf5f160ff6046342405b75384a089d2819d0",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Teacher__c\\fields\\First_Name__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Teacher__c\\fields\\First_Name__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 376,
+            "modifiedTime": 1538722938538,
+            "changeTime": 1538722938538,
+            "contentHash": "471a690c29dfec1116bab3540498ed78585ae76c",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Teacher__c\\fields\\Last_Name__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Teacher__c\\fields\\Last_Name__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 374,
+            "modifiedTime": 1538722938539,
+            "changeTime": 1538722938539,
+            "contentHash": "95f3178a613f0c4d3b659b3ab6e3c2400cbe9630",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Teacher__c\\fields\\Profile_ID__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Teacher__c\\fields\\Profile_ID__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 522,
+            "modifiedTime": 1538722938540,
+            "changeTime": 1538722938540,
+            "contentHash": "6245556765a3116fff4de7b0d47f57c9cd3dec43",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Teacher__c\\fields\\School__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Teacher__c\\fields\\School__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 610,
+            "modifiedTime": 1538722938541,
+            "changeTime": 1538722938541,
+            "contentHash": "bdd2ce871ea65a9c50d7b14001acb21d8006b9b3",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Teacher__c\\fields\\Second_Name__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Teacher__c\\fields\\Second_Name__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 378,
+            "modifiedTime": 1538722938542,
+            "changeTime": 1538722938542,
+            "contentHash": "a96473dd3c85d584fbae0de77cba11c4915211a9",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Teacher__c\\fields\\Title__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Teacher__c\\fields\\Title__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 2186,
+            "modifiedTime": 1538722938543,
+            "changeTime": 1538722938543,
+            "contentHash": "055c229ed64c8aa45faa0641af95c393f87f9bb6",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Teacher__c\\Teacher__c.object-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Teacher__c\\Teacher__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 2148,
+            "modifiedTime": 1538722938536,
+            "changeTime": 1538722938536,
+            "contentHash": "88000dbebb83dc112515d903f84aa9f0c023e428",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Trigger_Settings__c",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Trigger_Settings__c",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1538722938543,
+            "changeTime": 1538722938543,
+            "contentHash": "e98eb3b310a2b229a85e5819ba8ef569237e4964",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Trigger_Settings__c\\Trigger_Settings__c.object-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Trigger_Settings__c\\Trigger_Settings__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 372,
+            "modifiedTime": 1538722938544,
+            "changeTime": 1538722938544,
+            "contentHash": "a901af791d22b5ea29ffd379ce65891774f5664c",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\profiles",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1538722938548,
+            "changeTime": 1538722938548,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 26505,
+            "modifiedTime": 1538741520780,
+            "changeTime": 1538741520780,
+            "contentHash": "365c3331a4365e302e67d65b4c19e821874c52d1"
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9751,
+            "modifiedTime": 1538741520722,
+            "changeTime": 1538741520722,
+            "contentHash": "07a513f37bf16172ea7787641379520f8f5c2d63"
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9751,
+            "modifiedTime": 1538741520743,
+            "changeTime": 1538741520743,
+            "contentHash": "07a513f37bf16172ea7787641379520f8f5c2d63"
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 10089,
+            "modifiedTime": 1538741520700,
+            "changeTime": 1538741520700,
+            "contentHash": "8fda4635ad692aad3d853aabbf39b463ad19fdef"
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\tabs",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\tabs",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1538722938550,
+            "changeTime": 1538722938550,
+            "contentHash": "8e82c41095c7fe6e84c5d46d2afe9fac1e826f19",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\tabs\\Discipline__c.tab-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\tabs\\Discipline__c.tab-meta.xml",
+            "isDirectory": false,
+            "size": 232,
+            "modifiedTime": 1538722938550,
+            "changeTime": 1538722938550,
+            "contentHash": "f98a6db2c08a1a4f86b79a6a3ef218d3a914c009",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\tabs\\School__c.tab-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\tabs\\School__c.tab-meta.xml",
+            "isDirectory": false,
+            "size": 227,
+            "modifiedTime": 1538722938551,
+            "changeTime": 1538722938551,
+            "contentHash": "50d96dec6f5d8b094ea538cca32f2b38e2bc817a",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\triggers",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\triggers",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1538739895443,
+            "changeTime": 1538739934405,
+            "contentHash": "2d1f6f36a43ea97a8a22e7ea8caedbe2df16b5d2",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\triggers\\StudentTrigger.trigger",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\triggers\\StudentTrigger.trigger",
+            "isDirectory": false,
+            "size": 54,
+            "modifiedTime": 1538739599992,
+            "changeTime": 1538739599992,
+            "contentHash": "1572e6213047031cda5835273ea6d916c3fb54c2",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\triggers\\StudentTrigger.trigger-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\triggers\\StudentTrigger.trigger-meta.xml",
+            "isDirectory": false,
+            "size": 194,
+            "modifiedTime": 1538739599997,
+            "changeTime": 1538739599997,
+            "contentHash": "195829b7288ac92a171467db1f6e10fdf38b9e26",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools",
+        {
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1538734577427,
+            "changeTime": 1538734577427,
+            "contentHash": "386b6d7d3c9cab62322f2b8e314dfb44828945f3",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Level__c\\Level__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Level__c\\Level__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2119,
+            "modifiedTime": 1538741520671,
+            "changeTime": 1538741520671,
+            "contentHash": "984dca134f547ffe9928b1954d78503e4390d55b"
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Level__c\\fields\\School__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Level__c\\fields\\School__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 496,
+            "modifiedTime": 1538741520677,
+            "changeTime": 1538741520677,
+            "contentHash": "b7c3009cedd20d46902c242e0320d9dc10355204"
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\layouts\\Level__c-Level Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\layouts\\Level__c-Level Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1947,
+            "modifiedTime": 1538741520682,
+            "changeTime": 1538741520682,
+            "contentHash": "9c9027a587d62cc77ef8c245abaadc3c85d49f9c"
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Level__c",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Level__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1538741520672,
+            "changeTime": 1538741520672,
+            "contentHash": "b09aa24160dcf920fd0dc7c69ae3fabc7a47fa1f"
+        }
+    ],
+    [
+        "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Level__c\\fields",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\o42994\\Documents\\SF-Code-test\\SFDX-github\\Salesforce-DX\\schools\\force-app\\main\\default\\objects\\Level__c\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1538741520672,
+            "changeTime": 1538741520672,
+            "contentHash": "a1b2f06036a82e0b4c662ad1e5d9ca61173f6d13"
+        }
+    ]
+]
